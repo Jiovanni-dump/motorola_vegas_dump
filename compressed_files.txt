@@ -1,0 +1,15 @@
+vendor/etc/camera/vidhance.lic.zst
+product/priv-app/VzwMyVerizon-v21.2.3-513/VzwMyVerizon-v21.2.3-513.apk.zst
+product/priv-app/Messages/Messages.apk.zst
+product/priv-app/VzwSecurityPrivacy-v7-8-5-17/VzwSecurityPrivacy-v7-8-5-17.apk.zst
+product/priv-app/MotCamera5/MotCamera5.apk.zst
+product/app/GoogleHome/GoogleHome.apk.zst
+product/priv-app/GmsCore/GmsCore.apk.zst
+product/app/Maps/Maps.apk.zst
+product/app/YouTube/YouTube.apk.zst
+product/app/Gmail2/Gmail2.apk.zst
+product/app/TFDashboard/TFDashboard.apk.zst
+system_ext/priv-app/SettingsMoto/SettingsMoto.apk.zst
+product/app/Photos/Photos.apk.zst
+system_ext/lib64/libshowlogo.so.zst
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.zst

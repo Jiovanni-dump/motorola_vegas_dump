@@ -1,0 +1,14 @@
+# user 16 W1WEOS36.48-22-3-3 f9ed7c release-keys
+- manufacturer: motorola
+- platform: common
+- codename: vegas
+- flavor: user
+- release: 16
+- id: W1WEOS36.48-22-3-3
+- incremental: f9ed7c
+- tags: release-keys
+- fingerprint: motorola/vegas_og_hal/vegas:13/W1WEOS36.48-22-3-3/f9ed7c:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-16-W1WEOS36.48-22-3-3-f9ed7c-release-keys
+- repo: motorola_vegas_dump
