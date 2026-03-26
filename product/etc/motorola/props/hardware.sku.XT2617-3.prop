@@ -1,0 +1,5 @@
+ro.product.first_api_level=36
+ro.product.name.canonical=vegas26
+ro.product.device=vegas26
+setupwizard.feature.provisioning_profile_mode=true
+ro.vendor.radio.imei.sv=2
